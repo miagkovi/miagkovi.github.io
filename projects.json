@@ -1,0 +1,39 @@
+{
+	"projects":[
+
+		{
+			"name" 		:	"Metro UI",
+			"image" 	:	"../metroui/metroui.jpeg",
+			"url" 		:	"../metroui/index.html",
+			"features"	:	["RWD", "Twitter Embedded Timelist", "normalize.css"]
+		},
+
+		{
+			"name" 		:	"Bullsy Store",
+			"image" 	:	"../bullsystore/bullsystore.jpeg",
+			"url" 		:	"../bullsystore/index.html",
+			"features"	:	["RWD", "normalize.css"]
+		},
+
+		{
+			"name" 		:	"The News Reporter",
+			"image" 	:	"../thenewsreporter/thenewsreporter.jpeg",
+			"url" 		:	"../thenewsreporter/index.html",
+			"features"	:	["RWD", "normalize.css"]
+		},
+
+		{
+			"name" 		:	"Cuda",
+			"image" 	:	"../cuda/cuda.jpeg",
+			"url" 		:	"../cuda/index.html",
+			"features"	:	["RWD", "normalize.css"]
+		},
+
+		{
+			"name" 		:	"Weather API",
+			"image" 	:	"../weatherapi/weatherapi.jpeg",
+			"url" 		:	"../weatherapi/index.html",
+			"features"	:	["RWD", "Twitter Bootstrap", "AngularJS 1.x"]
+		}
+	]
+}
