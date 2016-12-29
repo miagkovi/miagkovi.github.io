@@ -1,39 +1,47 @@
 {
-	"projects":[
+	"projects": [
 
 		{
 			"name" 		:	"Metro UI",
-			"image" 	:	"../metroui/metroui.jpeg",
-			"url" 		:	"../metroui/index.html",
-			"features"	:	["RWD", "Twitter Embedded Timelist", "normalize.css"]
+			"image" 	:	"img/metroui.jpg",
+			"url" 		:	"/metroui/index.html",
+			"features"	:	["Responsive Layout", "normalize.css", "Twitter Embedded Timelist", "prefixfree.js", "html5shiv.js"]
 		},
 
 		{
 			"name" 		:	"Bullsy Store",
-			"image" 	:	"../bullsystore/bullsystore.jpeg",
-			"url" 		:	"../bullsystore/index.html",
-			"features"	:	["RWD", "normalize.css"]
-		},
-
-		{
-			"name" 		:	"The News Reporter",
-			"image" 	:	"../thenewsreporter/thenewsreporter.jpeg",
-			"url" 		:	"../thenewsreporter/index.html",
-			"features"	:	["RWD", "normalize.css"]
+			"image" 	:	"img/bullsystore.jpg",
+			"url" 		:	"/bullsystore/index.html",
+			"features"	:	["Responsive Web Design", "Google Fonts", "vanilla js slider","normalize.css", "prefixfree.js", "html5shiv.js"]
 		},
 
 		{
 			"name" 		:	"Cuda",
-			"image" 	:	"../cuda/cuda.jpeg",
-			"url" 		:	"../cuda/index.html",
-			"features"	:	["RWD", "normalize.css"]
+			"image" 	:	"img/Cuda.jpg",
+			"url" 		:	"/cuda/index.html",
+			"features"	:	["Responsive Web Design", "Form Validation", "jQuery", "AJAX", "prefixfree.js", "html5shiv.js"]
+		},
+
+		{
+			"name" 		:	"Rocket Design",
+			"image" 	:	"img/rocketdesign.jpg",
+			"url" 		:	"/rocketdesign/index.html",
+			"features"	:	["Responsive Web Design", "Font Awesome"]
 		},
 
 		{
 			"name" 		:	"Weather API",
-			"image" 	:	"../weatherapi/weatherapi.jpeg",
-			"url" 		:	"../weatherapi/index.html",
-			"features"	:	["RWD", "Twitter Bootstrap", "AngularJS 1.x"]
+			"image" 	:	"img/weatherapi.jpg",
+			"url" 		:	"http://miagkovi.github.io/weatherapi/app/index.html",
+			"features"	:	["AngularJS 1.x", "Responsive Web Design", "openweathermap API", "Twitter Bootstrap", "jQuery", "SVG"]
+		},
+
+		{
+			"name" 		:	"Pseudo-Randome Joke",
+			"image" 	:	"img/pseudorandomjoke.jpg",
+			"url" 		:	"/pseudorandomjoke/index.html",
+			"features"	:	["Minimalistic Web Design", "ReactJS", "es6", "babel.js"]
 		}
+
 	]
 }
