@@ -41,6 +41,13 @@
 			"image" 	:	"img/pseudorandomjoke.jpg",
 			"url" 		:	"/pseudorandomjoke/index.html",
 			"features"	:	["Minimalistic Web Design", "ReactJS", "es6", "babel.js"]
+		},
+
+		{
+			"name" 		:	"The Live Link Shop",
+			"image" 	:	"img/thelivelinkshop.jpg",
+			"url" 		:	"/thelivelinkshop/index.html",
+			"features"	:	["RWD", "mustache.js", "jQuery", "vanilla js"]
 		}
 
 	]
