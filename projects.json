@@ -27,7 +27,7 @@
 			"image" 	:	"img/thelivelinkshop.jpg",
 			"url" 		:	"/thelivelinkshop/index.html",
 			"features"	:	["RWD", "mustache.js", "jQuery", "vanilla js"]
-		}
+		},
 
 		{
 			"name" 		:	"Metro UI",
