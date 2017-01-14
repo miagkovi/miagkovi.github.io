@@ -2,6 +2,34 @@
 	"projects": [
 
 		{
+			"name" 		:	"Bookmarker",
+			"image" 	:	"img/bookmarker.jpg",
+			"url" 		:	"/bookmarker/index.html",
+			"features"	:	["vanilla JS", "HTML5 Local Storage", "twitter bootstrap"]
+		},
+
+		{
+			"name" 		:	"Weather API",
+			"image" 	:	"img/weatherapi.jpg",
+			"url" 		:	"http://miagkovi.github.io/weatherapi/app/index.html",
+			"features"	:	["AngularJS 1.x", "Responsive Web Design", "openweathermap API", "Twitter Bootstrap", "jQuery", "SVG"]
+		},
+
+		{
+			"name" 		:	"Pseudo-Randome Joke",
+			"image" 	:	"img/pseudorandomjoke.jpg",
+			"url" 		:	"/pseudorandomjoke/index.html",
+			"features"	:	["Minimalistic Web Design", "ReactJS", "es6", "babel.js"]
+		},
+
+		{
+			"name" 		:	"The Live Link Shop",
+			"image" 	:	"img/thelivelinkshop.jpg",
+			"url" 		:	"/thelivelinkshop/index.html",
+			"features"	:	["RWD", "mustache.js", "jQuery", "vanilla js"]
+		}
+
+		{
 			"name" 		:	"Metro UI",
 			"image" 	:	"img/metroui.jpg",
 			"url" 		:	"/metroui/index.html",
@@ -27,27 +55,6 @@
 			"image" 	:	"img/rocketdesign.jpg",
 			"url" 		:	"/rocketdesign/index.html",
 			"features"	:	["Responsive Web Design", "Font Awesome"]
-		},
-
-		{
-			"name" 		:	"Weather API",
-			"image" 	:	"img/weatherapi.jpg",
-			"url" 		:	"http://miagkovi.github.io/weatherapi/app/index.html",
-			"features"	:	["AngularJS 1.x", "Responsive Web Design", "openweathermap API", "Twitter Bootstrap", "jQuery", "SVG"]
-		},
-
-		{
-			"name" 		:	"Pseudo-Randome Joke",
-			"image" 	:	"img/pseudorandomjoke.jpg",
-			"url" 		:	"/pseudorandomjoke/index.html",
-			"features"	:	["Minimalistic Web Design", "ReactJS", "es6", "babel.js"]
-		},
-
-		{
-			"name" 		:	"The Live Link Shop",
-			"image" 	:	"img/thelivelinkshop.jpg",
-			"url" 		:	"/thelivelinkshop/index.html",
-			"features"	:	["RWD", "mustache.js", "jQuery", "vanilla js"]
 		}
 
 	]
