@@ -2,6 +2,13 @@
 	"projects": [
 
 		{
+			"name" 		:	"Github Profile Finder",
+			"image" 	:	"img/githubfinder.jpg",
+			"url" 		:	"/githubfinder/index.html",
+			"features"	:	["jQuery", "es6", "ajax", "Bootstrap"]
+		},
+
+		{
 			"name" 		:	"Bookmarker",
 			"image" 	:	"img/bookmarker.jpg",
 			"url" 		:	"/bookmarker/index.html",
