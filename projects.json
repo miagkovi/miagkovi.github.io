@@ -16,6 +16,13 @@
 		},
 
 		{
+			"name" 		:	"5x5 Tic-tac-toe",
+			"image" 	:	"img/tictactoe.jpg",
+			"url" 		:	"/tictactoe/index.html",
+			"features"	:	["vanilla JS", "jQuery"]
+		},
+
+		{
 			"name" 		:	"Weather API",
 			"image" 	:	"img/weatherapi.jpg",
 			"url" 		:	"http://miagkovi.github.io/weatherapi/app/index.html",
