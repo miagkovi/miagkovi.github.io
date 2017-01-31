@@ -6,6 +6,7 @@
 	<meta name="description" content="Miagkov Ievgenii Portfolio">
 	<meta name="keywords" content="Miagkov, Ievgenii, Portfolio, Front-end, Developer, HTML, CSS">
 	<meta name="author" content="Miagkov Ievgenii">
+	<link rel="stylesheet" type="text/css" href="styles/normalize.css">
 	<link rel="stylesheet" href="styles/styles.css">
 	<!--[if lt IE 9]>
     	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -19,9 +20,8 @@
 <!--header section-->
 	<header>
 		<a href="https://github.com/miagkovi"><img src="img/foto.jpg" alt="photo" id="photo"></a>
-		<h2>Ievgenii Miagkov</h2>
-		<h3>Front-end developer</h3>
-		<h2>Portf&#248;lio</h2>
+		<h3>Ievgenii Miagkov</h3>
+		<p>Front-end developer Portf&#248;lio</p>
 	</header>
 <!--projects section-->
 	<section class="projects" id="mustache">
@@ -29,7 +29,7 @@
 			{{#projects}}
 				<div class="project col">
 					<img src="{{ image }}" alt="Project photo" class="project__img">
-					<h1 class="project__heading">{{ name }}</h1>
+					<h3 class="project__heading">{{ name }}</h3>
 					<p class="project__features">
 						{{#features}}
 							&#x00B7; {{ . }}
@@ -46,12 +46,9 @@
 		<ul>
 			<li><a href="https://ua.linkedin.com/in/miagkovievgenii">LinkedIn</a></li>
 			<li><a href="https://github.com/miagkovi">GitHub</a></li>
-			<li><a href="https://www.codewars.com/users/miagkovi">Codewars</a></li>
-			<li><a href="mailto:miagkovi@gmail.com">E-mail</a></li>
-			<li><a href="tel://CTOBATT">Skype</a></li>
-			<li><a href="http://miagkovi.deviantart.com/">DeviantArt</a></li>
+			<li><a href="https://twitter.com/miagkovi">Twitter</a></li>
 		</ul>
-		<p>2016 - Dnipro - UA</p>
+		<p>- 2016-2017 miagkovi @ Dnipro, UA -</p>
 	</footer>
 </div>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
