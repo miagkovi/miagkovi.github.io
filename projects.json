@@ -9,20 +9,6 @@
 		},
 
 		{
-			"name" 		:	"The Live Link Shop",
-			"image" 	:	"img/thelivelinkshop.jpg",
-			"url" 		:	"/thelivelinkshop/index.html",
-			"features"	:	["RWD", "mustache.js", "jQuery", "vanilla js"]
-		},
-
-		{
-			"name" 		:	"Metro UI",
-			"image" 	:	"img/metroui.jpg",
-			"url" 		:	"/metroui/index.html",
-			"features"	:	["Responsive Layout", "normalize.css", "Twitter Embedded Timelist", "prefixfree.js", "html5shiv.js"]
-		},
-
-		{
 			"name" 		:	"Bullsy Store",
 			"image" 	:	"img/bullsystore.jpg",
 			"url" 		:	"/bullsystore/index.html",
@@ -57,6 +43,20 @@
 			"features"	:	["vanilla JS", "HTML5 Local Storage", "twitter bootstrap"]
 		},
 
+		{
+			"name" 		:	"The Live Link Shop",
+			"image" 	:	"img/thelivelinkshop.jpg",
+			"url" 		:	"/thelivelinkshop/index.html",
+			"features"	:	["RWD", "mustache.js", "jQuery", "vanilla js"]
+		},
+
+		{
+			"name" 		:	"Metro UI",
+			"image" 	:	"img/metroui.jpg",
+			"url" 		:	"/metroui/index.html",
+			"features"	:	["Responsive Layout", "normalize.css", "Twitter Embedded Timelist", "prefixfree.js", "html5shiv.js"]
+		},
+		
 		{
 			"name" 		:	"5x5 Tic-tac-toe",
 			"image" 	:	"img/tictactoe.jpg",
