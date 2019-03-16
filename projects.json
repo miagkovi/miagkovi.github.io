@@ -8,13 +8,6 @@
 			"features"	:	["AngularJS 1.5x", "Responsive Web Design", "openweathermap API", "Twitter Bootstrap", "jQuery", "SVG"]
 		},
 
-		/*{
-			"name" 		:	"Pseudo-Randome Joke",
-			"image" 	:	"img/pseudorandomjoke.jpg",
-			"url" 		:	"/pseudorandomjoke/index.html",
-			"features"	:	["Minimalistic Web Design", "ReactJS", "es6", "babel.js"]
-		},*/
-
 		{
 			"name" 		:	"The Live Link Shop",
 			"image" 	:	"img/thelivelinkshop.jpg",
