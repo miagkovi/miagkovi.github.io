@@ -5,63 +5,63 @@
 			"name" 		:	"Weather API",
 			"image" 	:	"img/weatherapi.jpg",
 			"url" 		:	"http://miagkovi.github.io/weatherapi/app/index.html",
-			"features"	:	["AngularJS 1.5x", "Responsive Web Design", "openweathermap API", "Twitter Bootstrap", "jQuery", "SVG"]
+			"features"	:	["AngularJS 1.5x", "Responsive Web Design", "Openweathermap API", "Bootstrap", "jQuery", "SVG"]
 		},
 
 		{
 			"name" 		:	"Bullsy Store",
 			"image" 	:	"img/bullsystore.jpg",
-			"url" 		:	"/bullsystore/index.html",
-			"features"	:	["Responsive Web Design", "Google Fonts", "vanilla js slider","normalize.css", "prefixfree.js", "html5shiv.js"]
+			"url" 		:	"http://miagkovi.github.io/bullsystore/index.html",
+			"features"	:	["Responsive Web Design", "Google Fonts", "Vanilla JS Slider","normalize.css", "prefixfree.js", "html5shiv.js"]
 		},
 
 		{
 			"name" 		:	"Cuda",
 			"image" 	:	"img/Cuda.jpg",
-			"url" 		:	"/cuda/index.html",
+			"url" 		:	"http://miagkovi.github.io/cuda/index.html",
 			"features"	:	["Responsive Web Design", "Form Validation", "jQuery", "AJAX", "prefixfree.js", "html5shiv.js"]
 		},
 
 		{
 			"name" 		:	"Rocket Design",
 			"image" 	:	"img/rocketdesign.jpg",
-			"url" 		:	"/rocketdesign/index.html",
+			"url" 		:	"http://miagkovi.github.io/rocketdesign/index.html",
 			"features"	:	["Responsive Web Design", "Font Awesome"]
 		},
 		
 		{
 			"name" 		:	"Github Profile Finder",
 			"image" 	:	"img/githubfinder.jpg",
-			"url" 		:	"/githubfinder/index.html",
-			"features"	:	["jQuery", "es6", "ajax", "Bootstrap"]
+			"url" 		:	"http://miagkovi.github.io/githubfinder/index.html",
+			"features"	:	["jQuery", "ES6", "AJAX", "Bootstrap"]
 		},
 
 		{
 			"name" 		:	"Bookmarker",
 			"image" 	:	"img/bookmarker.jpg",
-			"url" 		:	"/bookmarker/index.html",
-			"features"	:	["vanilla JS", "HTML5 Local Storage", "twitter bootstrap"]
+			"url" 		:	"http://miagkovi.github.io/bookmarker/index.html",
+			"features"	:	["vanilla JS", "HTML5 Local Storage", "Bootstrap"]
 		},
 
 		{
 			"name" 		:	"The Live Link Shop",
 			"image" 	:	"img/thelivelinkshop.jpg",
-			"url" 		:	"/thelivelinkshop/index.html",
-			"features"	:	["RWD", "mustache.js", "jQuery", "vanilla js"]
+			"url" 		:	"http://miagkovi.github.io/thelivelinkshop/index.html",
+			"features"	:	["Responsive Web Design", "mustache.js", "jQuery", "Vanilla JS"]
 		},
 
 		{
 			"name" 		:	"Metro UI",
 			"image" 	:	"img/metroui.jpg",
-			"url" 		:	"/metroui/index.html",
+			"url" 		:	"http://miagkovi.github.io/metroui/index.html",
 			"features"	:	["Responsive Layout", "normalize.css", "Twitter Embedded Timelist", "prefixfree.js", "html5shiv.js"]
 		},
 		
 		{
 			"name" 		:	"5x5 Tic-tac-toe",
 			"image" 	:	"img/tictactoe.jpg",
-			"url" 		:	"/tictactoe/index.html",
-			"features"	:	["vanilla JS", "jQuery"]
+			"url" 		:	"http://miagkovi.github.io/tictactoe/index.html",
+			"features"	:	["Vanilla JS", "jQuery"]
 		}
 
 	]
