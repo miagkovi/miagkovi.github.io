@@ -1,3 +1,5 @@
 Portfolio
 =========
-personal portfolio, where i collect best work and study projects
+personal portfolio
+
+Bootstrap 4, mustache.js
