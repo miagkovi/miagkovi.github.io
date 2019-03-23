@@ -1,111 +1,33 @@
-/*-----------common styles-----------*/
-body {
-    margin-top: 10px;
-    font-size: 1em;
-    font-family: Calibri, Tahoma, Arial, sans-serif;
-    box-sizing: border-box;
-    letter-spacing: 0.1em;
-    color: #ffffff;
-    background-color: #3387ea;
+.jumbotron {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  margin-bottom: 0;
+  background-color: #fff;
 }
-a {
-    text-decoration: none;
-    color: inherit;
+@media (min-width: 768px) {
+  .jumbotron {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+  }
 }
-button {
-    color: inherit;
+
+.jumbotron p:last-child {
+  margin-bottom: 0;
 }
-h1 {
-    font-size: 2.5em;
-    margin: 0;
-    padding: 0;
+
+.jumbotron-heading {
+  font-weight: 300;
 }
-h2 {
-    font-size: 2em;
-    margin: 0;
-    padding: 0;
+
+.jumbotron .container {
+  max-width: 40rem;
 }
-h3 {
-    font-size: 1.5em;
-    margin: 0;
-    padding: 0;
-}
-/*-------------header-------------*/
-header {
-    text-align: center;
-    letter-spacing: .5em;
-}
-#photo {
-    max-width:100px;
-    border-radius: 50%;
-    animation: photo 10s 2s ease infinite;
-}
-@keyframes photo {
-    0% {transform: rotateY(0deg);}
-    2% {transform: rotateY(360deg);}
-    100% {transform: rotateY(360deg);}
-}
-/*-------------projects-------------*/
-.col {
-    width: 100%;
-    text-align: center;
-    background-color: #ffffff;
-    color: #3387ea;
-    margin: 5% 0;
-    border-radius: 20px;
-}
-.container {
-    margin: 0 auto;
-    max-width: 640px;
-}
-.project__features {
-    padding: 0 10%;
-    font-style: italic;
-}
-.project__img {
-    max-width: 100%;
-    display: block;
-    border-bottom: 5px solid #3387ea;
-}
-.project__link {
-    font-size: 2em;
-    animation: demo 2s 0s ease infinite;
-}
-@keyframes demo {
-    0% {color: #ffffff;}
-    50% {color: #3387ea;}
-    100% {color: #ffffff;}
-}
-/*-------------footer-------------*/
+
 footer {
-    text-align: center;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
 }
+
 footer p {
-    margin-top: 2%;
-}
-footer ul li {
-    display: inline-block;
-    margin: 1% 1%;
-    padding: 1% 1%; 
-    border-radius: 5px;
-}
-footer ul li:hover {
-    background-color: #ffffff;
-    color: #3387ea;
-}
-footer ul li a {
-    text-decoration: none;
-}
-#up {
-    font-size: 3em;
-    border-radius: 50%;
-    position: fixed;
-    padding: 1%;
-    bottom: 1%;
-    right: 1%;
-}
-#up:hover {
-    cursor: pointer;
-    background-color: #ffffff;
-    color: #3387ea;
+  margin-bottom: .25rem;
 }
